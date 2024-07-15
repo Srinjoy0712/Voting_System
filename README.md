@@ -29,5 +29,6 @@ Voters need to be pre-registered by the admin.
 Voters can cast their vote by verifying their Aadhar number.
 Each voter can only vote once.
 Election results can be viewed at any time.
+
 Note
 This is a simple implementation and does not include advanced security features. It is meant for educational purposes.
